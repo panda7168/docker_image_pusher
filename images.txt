@@ -6,6 +6,7 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 # frolvlad/alpine-glibc:glibc-2.28
 # zookeeper:3.4.14
-prom/prometheus:v2.7.2
-timonwong/prometheus-webhook-dingtalk:v1.4.0
-prom/alertmanager:latest
+#prom/prometheus:v2.7.2
+#timonwong/prometheus-webhook-dingtalk:v1.4.0
+#prom/alertmanager:latest
+node:18.16.0
