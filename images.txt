@@ -9,4 +9,6 @@
 #prom/prometheus:v2.7.2
 #timonwong/prometheus-webhook-dingtalk:v1.4.0
 #prom/alertmanager:latest
-node:18.16.0
+#node:18.16.0
+
+dockurr/windows
