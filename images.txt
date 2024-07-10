@@ -11,4 +11,6 @@
 #prom/alertmanager:latest
 #node:18.16.0
 #dockurr/windows
-feiyu563/prometheus-alert:v4.9.1
+#feiyu563/prometheus-alert:v4.9.1
+registry.gitlab.com/pipeline-components/eslint:latest
+registry.gitlab.com/pipeline-components/stylelint:latest
