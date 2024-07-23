@@ -14,5 +14,6 @@
 #feiyu563/prometheus-alert:v4.9.1
 #registry.gitlab.com/pipeline-components/eslint:latest
 #registry.gitlab.com/pipeline-components/stylelint:latest
-redis
-elestio/nodebb:v3.6.1
+#redis
+#elestio/nodebb:v3.6.1
+ansible/ansible:ubuntu1604py3
