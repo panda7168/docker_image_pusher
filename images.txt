@@ -17,4 +17,5 @@
 #redis
 #elestio/nodebb:v3.6.1
 #ansible/ansible:ubuntu1604py3
-alpinelinux/ansible:latest-x86_64
+# alpinelinux/ansible:latest-x86_64
+node:20-alpine3.19
