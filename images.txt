@@ -19,4 +19,5 @@
 #ansible/ansible:ubuntu1604py3
 # alpinelinux/ansible:latest-x86_64
 # node:20-alpine3.19
-alpine:3.7
+# alpine:3.7
+timonwong/prometheus-webhook-dingtalk:v2.0.0
