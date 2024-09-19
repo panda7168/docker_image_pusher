@@ -20,4 +20,11 @@
 # alpinelinux/ansible:latest-x86_64
 # node:20-alpine3.19
 # alpine:3.7
-timonwong/prometheus-webhook-dingtalk:v2.0.0
+#timonwong/prometheus-webhook-dingtalk:v2.0.0
+registry.k8s.io/kube-apiserver:v1.31.0
+registry.k8s.io/kube-controller-manager:v1.31.0
+registry.k8s.io/kube-scheduler:v1.31.0
+registry.k8s.io/kube-proxy:v1.31.0
+registry.k8s.io/coredns/coredns:v1.11.3
+registry.k8s.io/pause:3.10
+registry.k8s.io/etcd:3.5.15-0
