@@ -30,4 +30,4 @@
 #registry.k8s.io/etcd:3.5.15-0
 #kubernetesui/dashboard:v2.7.0
 #kubernetesui/metrics-scraper:v1.0.8
-fossology/fossology:scanner
+fossology/fossology:4.4.0
