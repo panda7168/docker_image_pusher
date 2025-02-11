@@ -33,4 +33,5 @@
 #fossology/fossology:4.4.0
 #pytorch/pytorch:2.5.0-cuda12.4-cudnn9-runtime
 #mayanghua/instock:latest
-bitnami/mysql:8.4.3
+#bitnami/mysql:8.4.3
+seemeai/llama-cpp:b4686-cuda12.1
