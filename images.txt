@@ -35,4 +35,5 @@
 #mayanghua/instock:latest
 #bitnami/mysql:8.4.3
 #seemeai/llama-cpp:b4686-cuda12.1
-mintplexlabs/anythingllm:latest
+#mintplexlabs/anythingllm:latest
+docker.io/library/ubuntu:jammy-20240627.1
