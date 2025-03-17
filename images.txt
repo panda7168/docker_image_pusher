@@ -60,4 +60,5 @@
 #myscale/myscaledb:1.6.4
 #docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 #docker.elastic.co/kibana/kibana:8.14.3
-postgres:15-alpine
+#postgres:15-alpine
+ubuntu:22.04
