@@ -61,4 +61,8 @@
 #docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 #docker.elastic.co/kibana/kibana:8.14.3
 #postgres:15-alpine
-ubuntu:22.04
+#ubuntu:22.04
+elasticsearch:8.11.3
+valkey/valkey:8
+mysql:8.0.39
+infiniflow/infinity:v0.6.0-dev3
