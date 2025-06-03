@@ -70,4 +70,5 @@
 #langgenius/dify-web:0.15.5
 #python:3.11
 #rustdesk/rustdesk-server-pro
-infiniflow/ragflow_deps
+#infiniflow/ragflow_deps
+justsong/one-api
