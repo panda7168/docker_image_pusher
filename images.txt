@@ -71,4 +71,5 @@
 #python:3.11
 #rustdesk/rustdesk-server-pro
 #infiniflow/ragflow_deps
-justsong/one-api
+#justsong/one-api
+yidadaa/chatgpt-next-web
