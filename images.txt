@@ -72,4 +72,11 @@
 #rustdesk/rustdesk-server-pro
 #infiniflow/ragflow_deps
 #justsong/one-api
-yidadaa/chatgpt-next-web
+#yidadaa/chatgpt-next-web
+nsqio/nsq:v1.3.0
+grafana/grafana:11.3.2
+grafana/loki:3.2.1
+redis:7.2.4
+influxdb:2.6
+apipark/apipark:v1.7.3-beta
+mysql:8.0.37
