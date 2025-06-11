@@ -83,5 +83,6 @@
 #node:20
 #ghcr.io/astral-sh/uv:python3.12-bookworm-slim
 #python:3.12.11-slim
-eolinker/apinto-gateway
-nsqio/nsq:v1.3.0
+#eolinker/apinto-gateway
+#nsqio/nsq:v1.3.0
+semitechnologies/weaviate:1.23.0
