@@ -86,4 +86,5 @@
 #eolinker/apinto-gateway
 #nsqio/nsq:v1.3.0
 #semitechnologies/weaviate:1.23.0
-infiniflow/ragflow:v0.19.1-slim
+#infiniflow/ragflow:v0.19.1-slim
+nextcloud:production-fpm-alpine
