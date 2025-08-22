@@ -99,5 +99,5 @@
 #alpine/curl:8.12.1
 #arigaio/atlas:0.35.0-community-alpine
 #opencoze/opencoze:latest
-vllm/vllm-openai:v0.10.0
-
+#vllm/vllm-openai:v0.10.0
+infiniflow/ragflow_deps:latest
