@@ -102,6 +102,7 @@
 #vllm/vllm-openai:v0.10.0
 #infiniflow/ragflow_deps:latest
 #ccr.ccs.tencentyun.com/codewithgpu4/jsntcheng-qwen_image_service:84sNAlIbkQ
-node:20-trixie-slim
-python:3.11.13-slim-trixie
+#node:20-trixie-slim
+#python:3.11.13-slim-trixie
+nvcr.io/nvidia/vllm:25.09-py3
 
