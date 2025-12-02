@@ -105,5 +105,5 @@
 #node:20-trixie-slim
 #python:3.11.13-slim-trixie
 #nvcr.io/nvidia/vllm:25.09-py3
-diffusers/diffusers-pytorch-cuda:latest
+ --platform=linux/arm64 diffusers/diffusers-pytorch-cuda:latest
 
