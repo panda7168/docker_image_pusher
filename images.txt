@@ -105,7 +105,8 @@
 #node:20-trixie-slim
 #python:3.11.13-slim-trixie
 #nvcr.io/nvidia/vllm:25.09-py3
-huobao/huobao-drama:v1.0.1
- --platform=linux/arm64 huobao/huobao-drama:latest
+#huobao/huobao-drama:v1.0.1
+infiniflow/ragflow_deps:latest
+# --platform=linux/arm64 huobao/huobao-drama:latest
 
 
